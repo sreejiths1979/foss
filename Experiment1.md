@@ -80,7 +80,7 @@ Getting started with Linux basic commands for directory operations, displaying d
 </table>
 
 ### Output:
-<ahref="img.jpg> </a>
+![](https://raw.githubusercontent.com/sreejiths1979/foss/master/Screenshot%20from%202020-02-04%2000-34-35.png)
 ### Result:
 Basic Linux commands and the direcotry structure of linux were studied. The directory structure was printed in tree format using tree command
 

@@ -1,4 +1,14 @@
-clear
+# <center>Experiment 6 </center>
+## <center>Menu driven calculator</center>
+### Aim:
+Write a shell script to implement a menu driven calculator with following func-
+tions
+• Addition
+• Subtraction
+• Multiplication
+• Division
+• Modulus.
+### Baisc Commands:clear
 i="y"
 echo "enter the first number"
 read n1

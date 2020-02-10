@@ -1,13 +1,13 @@
-# <center>Experiment 6 </center>
+# <Text align="center">Experiment 6 </Textext>
 ## <center>Menu driven calculator</center>
 ### Aim:
 Write a shell script to implement a menu driven calculator with following func-
 tions
 <li>Addition</li>
-• Subtraction
-• Multiplication
-• Division
-• Modulus.
+<li>Subtraction</li>
+<li>Multiplication</li>
+<li>Division</li>
+<li>Modulus</li>
 ### Baisc Commands:clear
 i="y"
 echo "enter the first number"

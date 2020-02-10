@@ -9,6 +9,7 @@ Write shell script to show various system configurations like
 <li>hard disk information like size of hard-disk, cache memory, model etc</li>
 <li>File system (Mounted)</li>
 </br>
+
 ### Programme
 i="y"<br>
 echo "enter the first number"<br>

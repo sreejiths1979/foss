@@ -1,13 +1,13 @@
 # <Text align="center">Experiment 5</Textext>
-## <center>Menu driven calculator</center>
+## <center>Shell script to show various system configurations</center>
 ### Aim:
-Write a shell script to implement a menu driven calculator with following func-
-tions
-<li>Addition</li>
-<li>Subtraction</li>
-<li>Multiplication</li>
-<li>Division</li>
-<li>Modulus</li>
+Write shell script to show various system configurations like
+<li>your OS and version, release number, kernel version</li>
+<li>all available shells</li>
+<li>computer CPU information like processor type, speed etc</li>
+<li>memory information</li>
+<li>hard disk information like size of hard-disk, cache memory, model etc</li>
+<li>File system (Mounted)</li>
 </br>
 ### Programme
 i="y"<br>

@@ -3,7 +3,7 @@
 ### Aim:
 Write a shell script to implement a menu driven calculator with following func-
 tions
-• Addition
+<li>Addition</li>
 • Subtraction
 • Multiplication
 • Division

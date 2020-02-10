@@ -202,7 +202,7 @@ to provide multiple references to files.
 
 
 ### Output:
-<ahref="img.jpg> </a>
+![](https://raw.githubusercontent.com/sreejiths1979/foss/master/output_exp2.png)
 ### Result:
 The Linux commands for redirection of standard I/O, pipes, filters, job control and links in linux were studied and output was verified.
 
@@ -405,6 +405,8 @@ Look for it at the end of the line.
 $ grep ?string1$? flename
 
 <br>Output
+<br>
+![](https://raw.githubusercontent.com/sreejiths1979/foss/master/op_exp3.png)
 
 <br>Result
 <br>The advanced linux commands ftp, ssh, wget, grep and curl were studied. 

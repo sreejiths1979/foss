@@ -11,37 +11,17 @@ Write shell script to show various system configurations like
 </br>
 
 ### Programme
-i="y"<br>
-echo "enter the first number"<br>
-read n1<br>
-echo "enter the second number"<br>
-read n2<br>
-while [ $i = "y" ]<br>
-	do<br>
-	echo "1-addition"<br>
-	echo "2-subtraction"<br>
-	echo "3-multiplication"<br>
-	echo "4-division"<br>
-	echo "5-modulo division"<br>
-	read c<br>
-	case $c in<br>
-1)sum=`expr $n1 + $n2`<br>
-	echo "result="$sum;;<br>
-2)sum=`expr $n1 - $n2`<br>
-	echo "result="$sum;;<br>
-3)sum=`expr $n1 \* $n2`<br>
-	echo "result="$sum;;<br>
-4)sum=`expr $n1 / $n2`<br>
-	echo "result="$sum;;<br>
-5)sum=`expr $n1 % $n2`<br>
-	echo "result="$sum;;<br>
-esac<br>
-	echo "do you want to continue(y/n)"<br>
-read i<br>
-if [ $i != "y" ]<br>
-	then<br>
-	exit<br>
-fi<br>
-done<br>
+\#!/bin/bash<br>
+echo -e "`cat /etc/os-release`"<br>
+echo -e "`cat /etc/shells`"<br>
+echo -e "`xset q`"<br>
+echo -e "`cat /proc/meminfo`"<br>
+echo -e "Driver: `sudo hdparm -I /dev/sda`"<br>
+echo -e "`cat /proc/mounts`"<br>
+
+### Output
 <br>
-![](https://raw.githubusercontent.com/sreejiths1979/foss/master/calculator.png)
+![](https://raw.githubusercontent.com/sreejiths1979/foss/master/Exp5_1.png)
+![](https://raw.githubusercontent.com/sreejiths1979/foss/master/Exp5_2.png)
+![](https://raw.githubusercontent.com/sreejiths1979/foss/master/Exp5_3.png)
+

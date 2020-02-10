@@ -21,7 +21,7 @@ echo -e "`cat /proc/mounts`"<br>
 
 ### Output
 <br>
-![](https://raw.githubusercontent.com/sreejiths1979/foss/master/Exp5_1.png)
-![](https://raw.githubusercontent.com/sreejiths1979/foss/master/Exp5_2.png)
+![](https://raw.githubusercontent.com/sreejiths1979/foss/master/Exp5_1.png)<br>
+![](https://raw.githubusercontent.com/sreejiths1979/foss/master/Exp5_2.png)<br>
 ![](https://raw.githubusercontent.com/sreejiths1979/foss/master/Exp5_3.png)
 

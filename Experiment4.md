@@ -12,7 +12,7 @@ Write shell script to show various system configuration like<br>
 
 
 clear<br>
-log=‘who|wc -l‘<br>
+log=`who|wc -l`<br>
 echo "the currently logged in user is $USER"<br>
 echo "the current shell is $SHELL"<br>
 echo "the home drectory is $HOME"<br>

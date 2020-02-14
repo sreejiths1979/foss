@@ -24,7 +24,7 @@ echo "there are $log users logged in"<br>
 ### Output
 
 ![](https://raw.githubusercontent.com/sreejiths1979/foss/master/exp4.png)
-<br>
+
 ### Result
 The shell script for displaying various system configurations were made and the
 output was verified. The script was run on Ubuntu 18.1. 

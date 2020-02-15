@@ -1,15 +1,15 @@
-# <Text align="center">Experiment 6 </Textext>
-## <center>Menu driven calculator</center>
+# <Text align="center">Experiment 6 </Text>
+## <centre>Menu driven calculator</centre>
 ### Aim:
-Write a shell script to implement a menu driven calculator with following func-
-tions
+Write a shell script to implement a menu driven calculator with following functions
 <li>Addition</li>
 <li>Subtraction</li>
 <li>Multiplication</li>
 <li>Division</li>
 <li>Modulus</li>
-</br>
+<br>
 ### Programme
+<br>
 i="y"<br>
 echo "enter the first number"<br>
 read n1<br>
@@ -43,4 +43,5 @@ if [ $i != "y" ]<br>
 fi<br>
 done<br>
 <br>
-![](https://raw.githubusercontent.com/sreejiths1979/foss/master/calculator.png)
+![](https://raw.githubusercontent.com/sreejiths1979/foss/master/exp6_1.png)<br>
+![](https://raw.githubusercontent.com/sreejiths1979/foss/master/exp6_2.png)<br>

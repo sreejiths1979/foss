@@ -43,6 +43,8 @@ if [ $i != "y" ]<br>
 	exit<br>
 fi<br>
 done<br>
-<br>
-![](https://raw.githubusercontent.com/sreejiths1979/foss/master/exp6_1.png)
+
+### Output
+![](https://raw.githubusercontent.com/sreejiths1979/foss/master/exp6_1.png)<br>
+![](https://raw.githubusercontent.com/sreejiths1979/foss/master/exp6_2.png)<br>
 

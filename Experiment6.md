@@ -45,6 +45,4 @@ fi<br>
 done<br>
 <br>
 ![](https://raw.githubusercontent.com/sreejiths1979/foss/master/exp6_1.png)
-![](https://raw.githubusercontent.com/sreejiths1979/foss/master/exp6_2.png)
-![](https://raw.githubusercontent.com/sreejiths1979/foss/master/exp6_1.png)<br>
-![](https://raw.githubusercontent.com/sreejiths1979/foss/master/exp6_2.png)<br>
+

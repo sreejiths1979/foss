@@ -116,5 +116,6 @@ to provide multiple references to files.
 
 ### Output:
 ![](https://raw.githubusercontent.com/sreejiths1979/foss/master/output_exp2.png)
+
 ### Result:
 The Linux commands for redirection of standard I/O, pipes, filters, job control and links in linux were studied and output was verified.

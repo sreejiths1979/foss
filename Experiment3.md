@@ -198,7 +198,7 @@ $ grep ?string1$? flename
 
 <br>Output
 <br>
-![](https://raw.githubusercontent.com/sreejiths1979/foss/master/op_exp3.png)
+![](https://raw.githubusercontent.com/sreejiths1979/foss/master/exp3.png)
 
 <br>Result
 <br>The advanced linux commands ftp, ssh, wget, grep and curl were studied. 
